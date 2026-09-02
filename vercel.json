@@ -1,0 +1,6 @@
+// Redirect all routes to index.html for SPA routing
+module.exports = {
+  github: {
+    silent: true,
+  },
+};

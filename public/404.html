@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Wolf ERP</title>
+    <script type="text/javascript">
+      // Redirect all 404s to index.html for SPA routing
+      var pathname = window.location.pathname;
+      var baseHref = '/wolf-colors-site/';
+      
+      // Store the path for index.html to use
+      sessionStorage.redirect = pathname;
+      
+      // Redirect to index.html
+      window.location.href = baseHref + 'index.html';
+    </script>
+  </head>
+  <body>
+  </body>
+</html>
