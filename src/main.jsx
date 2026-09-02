@@ -6,7 +6,7 @@ import './global.css';
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter basename="/wolf-colors-site/">
+    <BrowserRouter basename="/wolf-colors-ERP/">
       <App />
     </BrowserRouter>
   </React.StrictMode>

@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/wolf-colors-site/',
+  base: '/wolf-colors-ERP/',
   build: {
     outDir: 'dist',
     sourcemap: false,
