@@ -1,10 +1,10 @@
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 
-import Layout from './Layout';
-import Dashboard from './Dashboard';
-import Clientes from './Clientes';
-import Placeholder from './Placeholder';
+import Layout from './pages/Layout';
+import Dashboard from './pages/Dashboard';
+import Clientes from './pages/Clientes';
+import Placeholder from './pages/Placeholder';
 
 const pages = [
   'Leads',
