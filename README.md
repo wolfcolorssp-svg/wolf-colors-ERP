@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31719559/README.md)
 # 🐺 Wolf ERP V2
 
 Base oficial do novo ERP da Wolf Colors.

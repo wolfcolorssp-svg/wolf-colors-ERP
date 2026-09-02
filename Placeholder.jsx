@@ -1,0 +1,2 @@
+import { Construction } from 'lucide-react';
+export default function Placeholder({title}){return <div className="placeholder"><div className="placeholder-icon"><Construction size={32}/></div><p className="eyebrow">WOLF ERP</p><h1>{title}</h1><p>Este módulo será construído dentro da estrutura definitiva do ERP.</p><div className="roadmap">Próxima etapa: transformar esta tela em um módulo funcional conectado ao banco de dados.</div></div>}
